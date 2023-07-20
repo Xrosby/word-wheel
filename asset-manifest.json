@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/word-wheel/static/css/main.073c9b0a.css",
+    "main.js": "/word-wheel/static/js/main.7f245e52.js",
+    "static/js/787.e290c2d5.chunk.js": "/word-wheel/static/js/787.e290c2d5.chunk.js",
+    "index.html": "/word-wheel/index.html",
+    "main.073c9b0a.css.map": "/word-wheel/static/css/main.073c9b0a.css.map",
+    "main.7f245e52.js.map": "/word-wheel/static/js/main.7f245e52.js.map",
+    "787.e290c2d5.chunk.js.map": "/word-wheel/static/js/787.e290c2d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7f245e52.js"
+  ]
+}
